@@ -1,0 +1,654 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.10.3621]
+    Renderer: Intel(R) HD Graphics 4000
+    Vendor:   Intel
+    VRAM:     912 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+Platform assembly: C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  1.725 seconds
+Platform assembly: C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Donovan\Documents\Classes\4thYear\W2016\170Series\171\Vivericochet (03.11.16)\DEMO_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 54.315804 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6940 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.234429 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1160.
+Total: 0.733204 ms (FindLiveObjects: 0.341970 ms CreateObjectMapping: 0.048852 ms MarkObjects: 0.325138 ms  DeleteObjects: 0.016010 ms)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 01 to Player 02...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Assigning XBOX CONTROLLER 02 to Player 01...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player hit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Scored:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Score 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Score0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Round #0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.571503 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1194.
+Total: 0.582950 ms (FindLiveObjects: 0.080874 ms CreateObjectMapping: 0.036947 ms MarkObjects: 0.452813 ms  DeleteObjects: 0.011084 ms)
+
+Player hit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Scored:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Score 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Score1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Round #0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.325596 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1194.
+Total: 0.462255 ms (FindLiveObjects: 0.075126 ms CreateObjectMapping: 0.035305 ms MarkObjects: 0.341559 ms  DeleteObjects: 0.009031 ms)
+
+Player hit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Scored:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Score 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Score2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Round #0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.162206 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1194.
+Total: 0.518087 ms (FindLiveObjects: 0.073895 ms CreateObjectMapping: 0.050084 ms MarkObjects: 0.384254 ms  DeleteObjects: 0.009442 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileMaker.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileMaker.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Player hit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Scored:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Score 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Score2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Round #0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.280028 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1194.
+Total: 0.531634 ms (FindLiveObjects: 0.082105 ms CreateObjectMapping: 0.050084 ms MarkObjects: 0.388360 ms  DeleteObjects: 0.009852 ms)
+
+Player hit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Scored:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Score 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Score3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Round #0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.110479 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1194.
+Total: 0.510697 ms (FindLiveObjects: 0.075947 ms CreateObjectMapping: 0.049673 ms MarkObjects: 0.374402 ms  DeleteObjects: 0.009031 ms)
+
+Player hit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Scored:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Score 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Score3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Round #0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.230354 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1194.
+Total: 0.616203 ms (FindLiveObjects: 0.084979 ms CreateObjectMapping: 0.050084 ms MarkObjects: 0.468413 ms  DeleteObjects: 0.011905 ms)
+
+Player hit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Scored:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Score 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Score4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Round #0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.347765 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1194.
+Total: 0.578845 ms (FindLiveObjects: 0.054600 ms CreateObjectMapping: 0.044747 ms MarkObjects: 0.468002 ms  DeleteObjects: 0.010673 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileMaker.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Player hit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Scored:4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Score 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Score4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Round #0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.311638 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1194.
+Total: 0.603066 ms (FindLiveObjects: 0.127263 ms CreateObjectMapping: 0.052137 ms MarkObjects: 0.413402 ms  DeleteObjects: 0.009852 ms)
+
+Player hit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Scored:5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Score 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 2 Score4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Round #0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.332575 ms
+
+Unloading 232 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 0.930257 ms (FindLiveObjects: 0.032431 ms CreateObjectMapping: 0.033252 ms MarkObjects: 0.392465 ms  DeleteObjects: 0.471697 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.459429 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1194.
+Total: 0.652329 ms (FindLiveObjects: 0.089084 ms CreateObjectMapping: 0.049673 ms MarkObjects: 0.504950 ms  DeleteObjects: 0.007800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.238975 ms
+
+Unloading 232 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 1.409755 ms (FindLiveObjects: 0.089495 ms CreateObjectMapping: 0.121516 ms MarkObjects: 0.674908 ms  DeleteObjects: 0.522602 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.791088 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.379328 ms (FindLiveObjects: 0.019294 ms CreateObjectMapping: 0.018063 ms MarkObjects: 0.336222 ms  DeleteObjects: 0.004515 ms)
+

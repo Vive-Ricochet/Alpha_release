@@ -1,0 +1,30 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.6143]
+    Renderer: NVIDIA GeForce GTX 760
+    Vendor:   NVIDIA
+    VRAM:     1475 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+Platform assembly: C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+Platform assembly: C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\risaisro\Desktop\Vivericochet (03.11.16)\test_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 3840x1358 at 0,0
+<RI> Initialized touch support.
