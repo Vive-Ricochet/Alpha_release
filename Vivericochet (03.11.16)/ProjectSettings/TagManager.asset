@@ -6,11 +6,6 @@ TagManager:
   tags:
   - KillField
   - Ground
-  - Floor
-  - Pickup
-  - MusicPlayer
-  - New Tag
-  - GameMusic
   layers:
   - Default
   - TransparentFX
