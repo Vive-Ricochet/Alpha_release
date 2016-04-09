@@ -8,11 +8,11 @@ public class PauseMenuNew : MonoBehaviour {
     public bool isPaused;
     public GameObject PauseMenu;
     private InputManager input;
-    private int player_num;
+ //   private int player_num;
 
     void Start(){
         input = GameObject.Find("InputManager").GetComponent<InputManager>();
-        player_num = GetComponent<PlayerMovement>().player_num;
+  //      player_num = GetComponent<PlayerMovement>().player_num;
     }
 
     // Update is called once per frame
@@ -25,7 +25,16 @@ public class PauseMenuNew : MonoBehaviour {
             PauseMenu.SetActive(false);
             Time.timeScale = 1f;
         }
-        if  (input.buttonDown(player_num, "Back")){
+        if  (input.buttonDown(1, "Back")){
+            isPaused = !isPaused;
+        }
+        if (input.buttonDown(2, "Back")) {
+            isPaused = !isPaused;
+        }
+        if (input.buttonDown(3, "Back")) {
+            isPaused = !isPaused;
+        }
+        if (input.buttonDown(4, "Back")) {
             isPaused = !isPaused;
         }
     }
@@ -36,10 +45,14 @@ public class PauseMenuNew : MonoBehaviour {
 
 
     public void RestartMatch(){
+        ScoreManager.scoreP1 = 0;
+        ScoreManager.scoreP2 = 0;
         SceneManager.LoadScene(1);
     }
 
     public void Quit(){
+        ScoreManager.scoreP1 = 0;
+        ScoreManager.scoreP2 = 0;
         SceneManager.LoadScene(0);
     }
 }
