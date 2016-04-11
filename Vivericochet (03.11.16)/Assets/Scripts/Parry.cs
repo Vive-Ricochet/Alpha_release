@@ -21,6 +21,7 @@ public class Parry : MonoBehaviour
 
     [SerializeField] private Texture parrySprite;
     private bool button_down = false;
+    Animator animator;
 
     // Use this for initialization
     void Start() {
@@ -34,6 +35,7 @@ public class Parry : MonoBehaviour
         }
 
         playerCamera = GetComponent<PlayerMovement>().PlayerCamera;
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per engine update (not frame refresh)
@@ -41,6 +43,7 @@ public class Parry : MonoBehaviour
 
         if (input.leftTrigger(player_num) >= 0.2f && !parrying && !button_down) {
             parrying = true;
+            animator.SetBool("Parry", parrying);
             startFrame = Time.frameCount;
             GetComponent<PlayerMovement>().canMove = false;
             button_down = true;
@@ -57,6 +60,7 @@ public class Parry : MonoBehaviour
         } else if(parrying && Time.frameCount - startFrame >= parryDurration) {
             canParry = false;
             parrying = false;
+            animator.SetBool("Parry", parrying);
             GetComponent<PlayerMovement>().canMove = true;
         }
 

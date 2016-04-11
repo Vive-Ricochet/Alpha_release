@@ -134,7 +134,8 @@ public class  ProjectileMaker : MonoBehaviour {
             currentProjectile.GetComponent<ProjectileProperties>().inMotion = true;
             currentProjectile = null;
 
-
+            throwing = false;
+            animator.SetBool("Throwing", throwing);
         }
     }
 }
